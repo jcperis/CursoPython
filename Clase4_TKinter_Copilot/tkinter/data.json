@@ -1,0 +1,28 @@
+{
+    "clientes": [
+        {
+            "nif": "123123123",
+            "nombre": "Juan",
+            "apellidos": "Peris Broch",
+            "telefono": "111222333",
+            "categoria": [
+                "inquilino",
+                "propietario"
+            ]
+        },
+        {
+            "nif": "343343343X",
+            "nombre": "Pablo",
+            "apellidos": "Marcos Alonso",
+            "telefono": "456456456",
+            "categoria": null
+        },
+        {
+            "nif": "777888999C",
+            "nombre": "Maria",
+            "apellidos": "Marcos Alonso",
+            "telefono": "999999999",
+            "categoria": ["propietario"]
+        }
+    ]
+}
