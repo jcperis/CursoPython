@@ -1,0 +1,9 @@
+Para obtener los instaladores más recientes de Miniconda para Python 3.13, visite anaconda.com/download.
+
+Para obtener una lista de hashes de Miniconda y un archivo de versiones de Miniconda, incluidos los instaladores para versiones anteriores de Python, consulte https://repo.anaconda.com/miniconda.
+
+
+
+Enlace a la documentación de VS Code de Ciencia de Datos:
+
+	https://code.visualstudio.com/docs/datascience/overview
